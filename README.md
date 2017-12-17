@@ -6,3 +6,4 @@ Images are fethced from the same file making it faster and more effiecient than 
 
 #Data URIs
 Data URIs allow you to embed the image data directly into a stylesheet. This avoids additional HTTP requests for images, making it essentially the same thing as a sprite, without the fancy positioning.
+
