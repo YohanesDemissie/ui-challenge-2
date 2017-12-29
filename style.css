@@ -15,16 +15,11 @@ p {
     text-align: left;
 }
 
-textarea {
-    min-width: 80%;
-}
-
 select {
     font-size: 40px;
     min-width: 80%;
-    /* background-color: brown; */
-
 }
+
 .drop-down {
     padding-top: 10%; 
     min-width: 80%;
@@ -39,4 +34,10 @@ button {
 
 .grey {
     background: rgb(161, 4, 4);
+}
+
+@media all and (min-width: 480px) {
+    img {
+        position: relative;
+    }
 }
